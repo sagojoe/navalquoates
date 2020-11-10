@@ -26,10 +26,16 @@ p {
   	line-height: 2;
 
 }
-body {background-image: url("IMG_6152.jpeg");
-background-attachment:fixed;background-size:cover;
+
+body {
+background-image: url("IMG_6152.jpeg");
+background-position: center center;
+background-attachment:fixed;
+backgroun-repeat: no-repeat;
+background-size:cover;
 width: 100%;
-height: auto;}
+height: auto;
+}
 
 .orange {background-color:#ffcc99;}
 
