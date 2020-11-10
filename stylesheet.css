@@ -54,8 +54,6 @@ height: auto;}
 }
 
 .box4 {
-    margin-right: 300px;
-    margin-left: 50px;
     color: navy;
     font-size: 20px;
     margin-bottom: 600px;
@@ -71,8 +69,8 @@ height: auto;}
 .box4 p {
     margin: 20;
     padding: 20;
-		font-size: 30px;
-    position: fixed;
+	font-size: 30px;
+    position: auto;
 }
 
 .box5 {
