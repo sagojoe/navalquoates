@@ -20,11 +20,10 @@ p {
 	color: navy;
 	font-size: 30px;
 	margin: 110px;
-	margin-left: 400px;
-  margin-bottom: 500px;
-  font-family:'Kosugi Maru', sans-serif; arial;
-  font-weight: lighter;
-  line-height: 2;
+	margin-bottom: 500px;
+  	font-family:'Kosugi Maru', sans-serif; arial;
+  	font-weight: lighter;
+  	line-height: 2;
 
 }
 body {background-image: url("IMG_6152.jpeg");
@@ -34,7 +33,6 @@ background-attachment:fixed;background-size:cover;}
 
 .box3 {
     margin: 110px;
-    margin-left: 100px;
     color: white;
     font-size: 20px;
     margin-bottom: 500px;
