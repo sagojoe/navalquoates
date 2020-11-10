@@ -34,26 +34,25 @@ height: auto;}
 .orange {background-color:#ffcc99;}
 
 .box3 {
-    margin: 110px;
     color: white;
     font-size: 20px;
     margin-bottom: 500px;
     background: gray;/*背景色*/
     opacity: 0.78;
     font-family: monospace;
-    padding: 10px;
     line-height: 1.5em;
     border-radius: 5px;
     font-family: 'Muli', sans-serif;
     line-height: 50px;
-
 }
+
 .box3 p {
     margin: 0;
     padding: 0;
-		font-size: 30px;
+    font-size: 30px;
     position: fixed;
 }
+
 .box4 {
     margin-right: 300px;
     margin-left: 50px;
