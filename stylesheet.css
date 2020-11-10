@@ -1,0 +1,99 @@
+.title {
+  color: gray;
+}
+
+header {
+  position: fixed;
+
+
+}
+
+h1{
+	margin: 300px;
+	font-family:Verdana;
+}
+p {
+	color: navy;
+	font-size: 30px;
+	margin: 110px;
+	margin-left: 400px;
+  margin-bottom: 500px;
+  font-family:'Kosugi Maru', sans-serif; arial;
+  font-weight: lighter;
+  line-height: 2;
+
+}
+body {background-image: url("IMG_6152.jpeg");
+background-attachment:fixed;background-size:cover;}
+
+.orange {background-color:#ffcc99;}
+
+.box3 {
+    margin: 110px;
+    margin-left: 400px;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 500px;
+    background: gray;/*背景色*/
+    opacity: 0.78;
+    font-family: monospace;
+    padding: 10px;
+    line-height: 1.5em;
+    border-radius: 5px;
+    font-family: 'Muli', sans-serif;
+    line-height: 50px;
+
+}
+.box3 p {
+    margin: 0;
+    padding: 0;
+		font-size: 30px;
+    position: fixed;
+}
+.box4 {
+    margin-right: 300px;
+    margin-left: 200px;
+    color: navy;
+    font-size: 20px;
+    margin-bottom: 600px;
+    background: orange;/*背景色*/
+    opacity: 0.88;
+    padding: 10px;
+    line-height: 1.5em;
+    border-radius: 3px;
+    font-size: 30px;
+    font-family: 'Muli', sans-serif;
+
+}
+.box4 p {
+    margin: 20;
+    padding: 20;
+		font-size: 30px;
+    position: fixed;
+}
+
+.box5 {
+    margin-right: 400px;
+    margin-left: 400px;
+    color: lightyellow;
+    font-size: 20px;
+    margin-bottom: 600px;
+    background: green;/*背景色*/
+    opacity: 0.88;
+    padding: 10px;
+    line-height: 1.5em;
+    border-radius: 3px;
+    font-size: 30px;
+    font-family: 'Muli', sans-serif;
+
+}
+.box5 p {
+    margin: 20;
+    padding: 20;
+		font-size: 30px;
+    position: fixed;
+}
+
+a {
+text-decoration: none;
+}
