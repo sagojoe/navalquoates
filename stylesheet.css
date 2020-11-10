@@ -28,13 +28,7 @@ p {
 }
 
 body {
-background-image: url("IMG_6152.jpeg");
-background-position: center center;
-background-attachment:fixed;
-backgroun-repeat: no-repeat;
-background-size:cover;
-width: 100%;
-height: auto;
+background-image: url("IMG_6152.jpeg") center center;
 }
 
 .orange {background-color:#ffcc99;}
