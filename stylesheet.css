@@ -27,7 +27,9 @@ p {
 
 }
 body {background-image: url("IMG_6152.jpeg");
-background-attachment:fixed;background-size:cover;}
+background-attachment:fixed;background-size:cover;
+width: 100%;
+height: auto;}
 
 .orange {background-color:#ffcc99;}
 
